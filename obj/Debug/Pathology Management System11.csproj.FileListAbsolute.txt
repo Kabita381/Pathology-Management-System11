@@ -1,0 +1,20 @@
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology Management System11.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.doctor.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Report.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Add_User.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Administrator.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Change_Password.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Forgot_Password.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Form1.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Patient.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Properties.Resources.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Reset_Password.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology Management System11.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology Management System11.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Pathology Management System11\bin\Debug\Pathology Management System11.exe.config
+C:\Users\acer\source\repos\Pathology Management System11\bin\Debug\Pathology Management System11.exe
+C:\Users\acer\source\repos\Pathology Management System11\bin\Debug\Pathology Management System11.pdb
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology Management System11.exe
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology Management System11.pdb
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Bill.resources
+C:\Users\acer\source\repos\Pathology Management System11\obj\Debug\Pathology_Management_System11.Category.resources
